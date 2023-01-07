@@ -1,0 +1,35 @@
+@import './base/normalize';
+@import './base/reset';
+@import './base/visually-hidden';
+@import './base/body';
+
+@import './utils/variables';
+@import './base/body';
+
+@import './components/buttons';
+@import './components/container';
+@import './components/logo';
+@import './components/socials';
+@import './components/modal';
+@import './components/form';
+
+@import './layouts/header';
+@import './layouts/menu';
+@import './layouts/hero';
+@import './layouts/products';
+@import './layouts/about';
+@import './layouts/advantages';
+@import './layouts/gallery';
+@import './layouts/customer_reviews';
+@import './layouts/contacts';
+@import './layouts/footer';
+
+@import './utils/variables';
+
+@import './modals/buy-now';
+@import './modals/franchise';
+@import './modals/ingredients';
+@import './modals/locations';
+@import './modals/production';
+
+@import './components/to-top';
